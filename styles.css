@@ -1,3 +1,14 @@
+/*
+Variables
+Remove default Margin and Padding
+*/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 :root {
  --lumia-blue: #013452;
  --lumia-secondary-blue: #0c4961 ;
@@ -5,3 +16,11 @@
  --main-white: #f5ebff;
  --secondary-white: #dfd6e9;
 }
+
+/* 
+Page Layout
+*/
+
+/*
+Font styling
+*/
