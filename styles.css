@@ -21,6 +21,18 @@ Remove default Margin and Padding
 Page Layout
 */
 
+#logo {
+  width: 150px;
+}
+
+#hero-image {
+  width: 400px;
+}
+
+.fa-solid {
+  font-size: 4rem;
+}
+
 /*
 Font styling
 */
